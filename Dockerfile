@@ -7,5 +7,5 @@ MAINTAINER Jie Deng jiedeng@alumni.sjtu.edu.cn
 USER root
 
 #执行操作
-apt-get install vim
-apt-get install cmake
+RUN apt-get install vim
+RUN apt-get install cmake
