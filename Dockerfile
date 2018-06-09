@@ -8,3 +8,4 @@ USER root
 
 #执行操作
 apt-get install vim
+apt-get install cmake
